@@ -1,0 +1,25 @@
+# Web Framework
+streamlit
+
+# AI/ML Libraries
+transformers
+torch
+accelerate
+sentencepiece
+
+# Document Processing
+pdfplumber
+python-docx
+
+# NLP and Text Processing
+regex
+
+# Data Handling
+pandas
+numpy
+
+# Utilities
+python-dotenv
+tqdm
+requests
+Pillow

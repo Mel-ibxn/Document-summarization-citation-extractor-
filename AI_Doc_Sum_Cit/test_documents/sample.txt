@@ -1,0 +1,8 @@
+Sample legal text for testing:
+
+In the case of Rajesh vs. State of Punjab, the Supreme Court considered the application of Section 302 of the Indian Penal Code. 
+The incident occurred in (2018) and was cited in many subsequent judgments like Union of India v. Sharma.
+The High Court of Delhi originally heard the petition.
+The CrPC rules were strictly followed.
+Section 302 deals with the punishment for murder.
+Section 302 is a critical part of the IPC.
